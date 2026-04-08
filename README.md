@@ -1,5 +1,8 @@
 # Motor_De_Busqueda
 
+Naren Santiago Rojas Sanchez
+David Santiago Prieto Beltran
+
 1. Preparación de los Datos (Paso 1)
    
 Definimos una lista en Python llamada articulos_reglamento que actúa como nuestro corpus (conjunto de documentos). Esta lista contiene 10 artículos reales extraídos 
